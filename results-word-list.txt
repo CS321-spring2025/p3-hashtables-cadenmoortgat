@@ -1,0 +1,106 @@
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Word-List   Loadfactor: 0.5
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 47896 elements, of which 1258034 were duplicates
+	Avg. no. of probes = 1.60
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 47896 elements, of which 1258034 were duplicates
+	Avg. no. of probes = 1.39
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Word-List   Loadfactor: 0.6
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 57475 elements, of which 1530184 were duplicates
+	Avg. no. of probes = 2.15
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 57475 elements, of which 1530184 were duplicates
+	Avg. no. of probes = 1.53
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Word-List   Loadfactor: 0.7
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 67054 elements, of which 1802152 were duplicates
+	Avg. no. of probes = 3.60
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 67054 elements, of which 1802152 were duplicates
+	Avg. no. of probes = 1.72
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Word-List   Loadfactor: 0.8
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 76633 elements, of which 2071115 were duplicates
+	Avg. no. of probes = 6.71
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 76633 elements, of which 2071115 were duplicates
+	Avg. no. of probes = 2.02
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Word-List   Loadfactor: 0.9
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 86212 elements, of which 2753838 were duplicates
+	Avg. no. of probes = 19.81
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 86212 elements, of which 2753838 were duplicates
+	Avg. no. of probes = 2.57
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Word-List   Loadfactor: 0.95
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 91002 elements, of which 2922620 were duplicates
+	Avg. no. of probes = 110.59
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 91002 elements, of which 2922620 were duplicates
+	Avg. no. of probes = 3.19
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Word-List   Loadfactor: 0.99
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 94834 elements, of which 2929300 were duplicates
+	Avg. no. of probes = 471.67
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 94834 elements, of which 2929300 were duplicates
+	Avg. no. of probes = 4.70
+--------------------------------------------------------------------------------
+

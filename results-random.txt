@@ -1,0 +1,106 @@
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Random-Integer   Loadfactor: 0.5
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 47896 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.50
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 47896 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.39
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Random-Integer   Loadfactor: 0.6
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 57475 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.73
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 57475 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.52
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Random-Integer   Loadfactor: 0.7
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 67054 elements, of which 0 were duplicates
+	Avg. no. of probes = 2.18
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 67054 elements, of which 0 were duplicates
+	Avg. no. of probes = 1.71
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Random-Integer   Loadfactor: 0.8
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 76633 elements, of which 1 were duplicates
+	Avg. no. of probes = 3.01
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 76633 elements, of which 1 were duplicates
+	Avg. no. of probes = 2.01
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Random-Integer   Loadfactor: 0.9
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 86212 elements, of which 1 were duplicates
+	Avg. no. of probes = 5.33
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 86212 elements, of which 1 were duplicates
+	Avg. no. of probes = 2.56
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Random-Integer   Loadfactor: 0.95
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 91002 elements, of which 1 were duplicates
+	Avg. no. of probes = 10.65
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 91002 elements, of which 1 were duplicates
+	Avg. no. of probes = 3.15
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+HashtableExperiment: Found a twin prime table capacity: 95791
+HashtableExperiment: Input: Random-Integer   Loadfactor: 0.99
+
+	Using Linear Probing
+HashtableExperiment: size of hash table is 95791
+	Inserted 94834 elements, of which 1 were duplicates
+	Avg. no. of probes = 60.08
+
+	Using Double Hashing
+HashtableExperiment: size of hash table is 95791
+	Inserted 94834 elements, of which 1 were duplicates
+	Avg. no. of probes = 4.67
+--------------------------------------------------------------------------------
+
